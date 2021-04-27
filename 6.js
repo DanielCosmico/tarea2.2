@@ -1,7 +1,7 @@
 const readline = require('readline').createInterface({
     input: process.stdin,
     output: process.stdout
-  });
+});
    
 readline.question('Cuanto numeros quieres imprimir?', x => {
     x++;
