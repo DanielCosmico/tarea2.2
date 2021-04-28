@@ -23,15 +23,12 @@
 16. Imprimir diez veces la serie de números del 1 al 10. 
 17.  Imprimir,  contar  y  sumar  los  múltiplos  de  2  que  hay  entre  una  serie  de  números,  tal  que  el segundo sea mayor o igual que el primero. 
 18.  Hacer  un  programa  que  cuente  las  veces  que  aparece  una  determinada  letra  en  una  frase que introduciremos por teclado.
-  
-
+---
 20. Calcular el factorial de un número, mediante funciones. 
 21. Hacer  un  programa  que  calcule  independientemente  la  suma  de  los  pares  y  los  impares  de los números entre 1 y 1000. 
-
-
+---
 24. Comprobar si un número mayor o igual que la unidad es primo.
-
-
+---
 27. Realizar la tabla de multiplicar de un numero entre 0 y 10. 
 28. Simular el lanzamiento de una moneda al aire e imprimir cara o cruz. 
 29. Simular cien tiradas de dos dados y contar las veces que entre los dos suman 10. 
